@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Activity_Four</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_activity__four">Activity_Four</string>
+    <string name="title_activity_cooking_mama">CookingMamaActivity</string>
+    <string name="title_activity_angry_birds">AngryBirdsActivity</string>
+    <string name="title_activity_plants">PlantsActivity</string>
+    <string name="title_activity_tab1">Tab1</string>
+    <string name="title_activity_tab2">Tab2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_hello_tab_widget">HelloTabWidget</string>
+
+</resources>
